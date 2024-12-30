@@ -1,0 +1,24 @@
+#.idea
+.idea/*
+
+# Library
+Library/*
+
+# Logs
+Logs/*
+
+# Obj
+Obj/*
+
+# Packages
+Packages/*
+
+# Temp
+Temp/*
+
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+TankGame.sln
+
+
+
